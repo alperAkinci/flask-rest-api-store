@@ -8,7 +8,7 @@ stores = [
         "name": "My Store",
         "items": [
             {
-                "name": "Philips One Blade",
+                "name": "Test Product",
                 "price": 69.99
             }
         ]
